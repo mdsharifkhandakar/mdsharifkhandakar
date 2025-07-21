@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Sharif Khandakar</h1>
+<h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
-<!--
-**mdsharifkhandakar/mdsharifkhandakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 👋 Assalamu Alaikum! I’m **Sharif**, a Web Developer currently learning full-stack web development step-by-step.
+- 🌱 I'm skilled in building responsive frontends and dynamic backends using modern tools.
+- 💻 I love solving real-world problems and improving myself day by day in web technologies.
+
+---
+
+### 🚀 My Learning Journey
+
+- 🎓 I started learning programming in **Tanvir Academy** & **Programming Hero**.
+- 💡 Right now I’m learning the following technologies:
+
+
+
+---
+
+### 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,graphql,redux,tailwind,bootstrap,sass,figma,git,github,vscode,vite,vercel,netlify,firebase,postman,prisma)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharifKhandakar&theme=gruvbox&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharifKhandakar&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharifKhandakar&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 📁 Projects I’m Working On
+
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **Multi Tools Web App** | Tools for image conversion, text utilities, and calculators | HTML, CSS, JS, Bootstrap | [Code](#) • [Demo](#) |
+| **Portfolio Website** | Personal portfolio showcasing my skills and projects | HTML, JS, CSS, Figma | [Code](#) • [Demo](#) |
+| **Data Entry Automation** | Automating Excel data entry for office work | Excel, VBA, Python | [Code](#) • [Demo](#) |
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [mdsharifkhandakar] (mailto:mdsharifkhandakar009@gmail.com)
+- 🌐 Portfolio: [Coming Soon](#)
+- 📝 Learning From: Programming Hero
+- 📘 I regularly write in Bangla & English.
+
+---
+
+### 🌐 Social Profiles
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/mdsharifkhandakar009))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mdsharifkhandakar)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](#)
+
+---
+
+### ✍️ Random Dev Quote
+
+```text
+"Learning to write programs stretches your mind, and helps you think better." – Bill Gates
