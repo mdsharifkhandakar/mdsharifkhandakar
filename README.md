@@ -3,11 +3,12 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" 
+    src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak Stats"
-    style="border-radius="10px box-shadow=0 4px 8px rgba(0,0,0,0.2)"
+    style="border-radius=10px; box-shadow=0 4px 8px rgba(0,0,0,0.2)"
   />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
