@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Sharif Khandakar</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md Sharif Khandakar</h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
@@ -15,13 +15,32 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
-👋 Assalamu Alaikum! I'm **Md Sharif Khandakar**, a passionate Web Developer from Narsingdi, Bangladesh 🇧🇩.  
-💻 I love solving problems with code and building real-world web applications.  
-🎓 Currently learning from **Tanvir Academy**, sharpening my skills in full-stack web development and office automation.  
-🎯 My goal is to become a professional full-stack developer who makes a real impact through technology.  
-💡 I enjoy learning modern tools and best practices and constantly improving my coding skills.
+👋 Hello! I'm a passionate **MERN Stack Developer** with hands-on experience in building full-stack applications using **TypeScript**, **Redux**, **Next.js**, and **Mongoose**.  
+I specialize in creating visually appealing front-ends and robust, secure back-end systems using modern technologies like **JavaScript (ES6+)** and **RESTful APIs**.  
+I write clean, maintainable, and scalable code that follows best industry practices.
+<br />
+
+🌱 My journey started in **late 2021** with HTML, CSS, and Bootstrap — focusing on static web pages.  
+🚀 By **2023**, I mastered **JavaScript (ES6+)**, **React.js**, **Tailwind CSS**, and explored **Firebase Authentication**, **Node.js**, **MongoDB**, **Express**, and **JWT**.  
+💡 In **2024**, I leveled up with **TypeScript**, **Next.js**, **Redux**, and **Mongoose** — allowing me to build secure, scalable, and production-ready applications.
+
+<br />
+
+<img width="55%" height="400" align="right" alt="Web Dev GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+- I’m currently learning **Full Stack Web Development**
+- 👨‍💻 Check out my work at [My Portfolio](#)
+- 📝 I regularly share insights on [Facebook]([https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/mdsharifkhandakar009))  
+- 💬 Ask me anything about **Web Development**  
+- 📫 Reach me at **mdsharifkhandakar009@gmail.com**  
+- 📄 View my resume [here](#)  
+- ⚡ Fun Fact: **I love both learning and teaching new technologies!**
+
+<br /><br />
+
+
 
 ---
 
@@ -39,7 +58,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="24px">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,graphql,redux,tailwind,bootstrap,sass,figma,git,github,vscode,vite,vercel,netlify,firebase,postman,prisma)
 
@@ -47,7 +66,7 @@
 
 <h3 style="color:#FFA500;">🏆 GitHub Trophies</h3>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mdsharifkhandakar&margin-w=15&margin-h=15" alt="GitHub Trophy" />
   </a>
