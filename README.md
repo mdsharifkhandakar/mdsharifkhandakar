@@ -5,21 +5,23 @@
   <img 
     src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" 
     alt="GitHub Streak Stats"
-    style="border-radius="10px" box-shadow="0 4px 8px rgba(0,0,0,0.2)"
+    style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
   />
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 👋 Assalamu Alaikum! I’m **Sharif**, a Web Developer currently learning full-stack web development step-by-step.
-- 🌱 I'm skilled in building responsive frontends and dynamic backends using modern tools.
-- 💻 I love solving real-world problems and improving myself day by day in web technologies.
+👋 Assalamu Alaikum! I'm **Md Sharif Khandakar**, a passionate Web Developer from Narsingdi, Bangladesh 🇧🇩.  
+💻 I love solving problems with code and building real-world web applications.  
+🎓 Currently learning from **Tanvir Academy**, sharpening my skills in full-stack web development and office automation.  
+🎯 My goal is to become a professional full-stack developer who makes a real impact through technology.  
+💡 I enjoy learning modern tools and best practices and constantly improving my coding skills.
 
 ---
 
@@ -32,11 +34,8 @@
 - 🔐 Implemented authentication using Firebase.  
 - 🌐 Learned backend development with Node.js & Express.js.  
 - 💾 Used MongoDB for database integration in full-stack apps.  
-- 🎓 Learning web development from **Programming Hero**, focusing on real-world projects and full-stack skills.  
+- 🎓 Currently learning from **Tanvir Academy**, focusing on practical projects and career-ready skills.  
 - 🚀 Dedicated to becoming a professional full-stack web developer.
-
-
-
 
 ---
 
@@ -54,8 +53,6 @@
   </a>
 </p>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -65,16 +62,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
 ---
 
 ## 📁 Projects I’m Working On
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
+| Project Name          | Description                              | Tech Stack               | Links              |
+|----------------------|----------------------------------------|--------------------------|--------------------|
 | **Multi Tools Web App** | Tools for image conversion, text utilities, and calculators | HTML, CSS, JS, Bootstrap | [Code](#) • [Demo](#) |
-| **Portfolio Website** | Personal portfolio showcasing my skills and projects | HTML, JS, CSS, Figma | [Code](#) • [Demo](#) |
-| **Data Entry Automation** | Automating Excel data entry for office work | Excel, VBA, Python | [Code](#) • [Demo](#) |
+| **Portfolio Website** | Personal portfolio showcasing my skills and projects | HTML, JS, CSS, Figma     | [Code](#) • [Demo](#) |
+| **Data Entry Automation** | Automating Excel data entry for office work | Excel, VBA, Python       | [Code](#) • [Demo](#) |
 
 ---
 
@@ -82,9 +78,9 @@
 
 📧 Email: mdsharifkhandakar009@gmail.com
 
-🌐 Portfolio Website: Coming Soon
+🌐 Portfolio Website: **Coming Soon**
 
-🧑‍💻 Currently Learning From: Programming Hero
+🧑‍💻 Currently Learning From: Tanvir Academy
 
 📝 I Regularly Write In: Bangla & English
 
@@ -99,18 +95,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsharifkhandakar009)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsharifkhandakar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](#)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](#)
 [![Twitch](https://img.shields.io/badge/Twitch-%237159E4.svg?&style=for-the-badge&logo=twitch&logoColor=white)](#)
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharif@gmail.com)
-
 
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ```text
 "Learning to write programs stretches your mind, and helps you think better." – Bill Gates
