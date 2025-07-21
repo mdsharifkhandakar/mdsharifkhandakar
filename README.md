@@ -5,7 +5,7 @@
   <img 
     src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" 
     alt="GitHub Streak Stats"
-    style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+    style="border-radius="10px box-shadow=0 4px 8px rgba(0,0,0,0.2)"
   />
 </p>
 
