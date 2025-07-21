@@ -57,9 +57,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharifKhandakar&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharifKhandakar&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
