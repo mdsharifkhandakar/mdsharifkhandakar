@@ -2,8 +2,10 @@
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true" alt="GitHub stats">
 </p>
+
 
 ---
 
@@ -30,11 +32,15 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 style="color:#FFA500;">🏆 GitHub Trophies</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharifKhandakar&theme=gruvbox&no-frame=true&row=1&column=6" />
+<p align="center" style="margin-top: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdsharifkhandakar&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  </a>
 </p>
+
+
 
 ---
 
