@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Sharif Khandakar</h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
-<p align="center" style="background-color: #0D1117; color: #F472B6; padding: 20px; border-radius: 10px;">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=mdsharifkhandakar" alt="GitHub streak stats" />
 </p>
-
 
 
 
