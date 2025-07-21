@@ -2,14 +2,16 @@
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=mdsharifkhandakar" alt="GitHub streak stats" />
 </p>
+
+
+
 
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 👋 Assalamu Alaikum! I’m **Sharif**, a Web Developer currently learning full-stack web development step-by-step.
 - 🌱 I'm skilled in building responsive frontends and dynamic backends using modern tools.
@@ -17,16 +19,24 @@
 
 ---
 
-### 🚀 My Learning Journey
+## 🚀 My Learning Journey
 
-- 🎓 I started learning programming in **Tanvir Academy** & **Programming Hero**.
-- 💡 Right now I’m learning the following technologies:
+- 🔰 Started with HTML & CSS in early 2025 to build basic static pages.  
+- 🎨 Learned Tailwind CSS for responsive, modern UI design.  
+- ⚙️ Gained skills in JavaScript (ES6+) for interactivity and logic building.  
+- ⚛️ Explored React.js – components, hooks, and routing.  
+- 🔐 Implemented authentication using Firebase.  
+- 🌐 Learned backend development with Node.js & Express.js.  
+- 💾 Used MongoDB for database integration in full-stack apps.  
+- 🎓 Learning web development from **Programming Hero**, focusing on real-world projects and full-stack skills.  
+- 🚀 Dedicated to becoming a professional full-stack web developer.
+
 
 
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,graphql,redux,tailwind,bootstrap,sass,figma,git,github,vscode,vite,vercel,netlify,firebase,postman,prisma)
 
@@ -44,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SharifKhandakar&show_icons=true&theme=tokyonight" alt="stats" />
@@ -53,7 +63,7 @@
 
 ---
 
-### 📁 Projects I’m Working On
+## 📁 Projects I’m Working On
 
 | Project Name | Description | Tech Stack | Links |
 |--------------|-------------|------------|-------|
@@ -63,21 +73,35 @@
 
 ---
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 
-- 📧 Email: [mdsharifkhandakar] (mailto:mdsharifkhandakar009@gmail.com)
-- 🌐 Portfolio: [Coming Soon](#)
-- 📝 Learning From: Programming Hero
-- 📘 I regularly write in Bangla & English.
+📧 Email: mdsharifkhandakar009@gmail.com
+
+🌐 Portfolio Website: Coming Soon
+
+🧑‍💻 Currently Learning From: Programming Hero
+
+📝 I Regularly Write In: Bangla & English
+
+📍 Location: Narsingdi, Bangladesh
+
+🕒 Available: 10 AM – 11 PM (GMT+6)
 
 ---
 
-### 🌐 Social Profiles
+## 🌐 Social Profiles
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/mdsharifkhandakar009))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mdsharifkhandakar)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsharifkhandakar009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsharifkhandakar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](#)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23FE7A16.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](#)
+[![Twitch](https://img.shields.io/badge/Twitch-%237159E4.svg?&style=for-the-badge&logo=twitch&logoColor=white)](#)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharif@gmail.com)
+
+
 
 ---
 
