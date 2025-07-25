@@ -9,14 +9,13 @@
   />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## About Me<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+## About Me<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 👋 Hello! I'm a passionate **MERN Stack Developer** with hands-on experience in building full-stack applications using **TypeScript**, **Redux**, **Next.js**, and **Mongoose**.  
 I specialize in creating visually appealing front-ends and robust, secure back-end systems using modern technologies like **JavaScript (ES6+)** and **RESTful APIs**.  
@@ -33,15 +32,13 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 - I’m currently learning **Full Stack Web Development**
 - 👨‍💻 Check out my work at [My Portfolio](#)
-- 📝 I regularly share insights on [Facebook]([https://www.facebook.com/SifatUllahShoyon](https://www.facebook.com/mdsharifkhandakar009))  
+- 📝 I regularly share insights on [Facebook](https://www.facebook.com/mdsharifkhandakar009)  
 - 💬 Ask me anything about **Web Development**  
-- 📫 Reach me at **mdsharifkhandakar009@gmail.com**  
+- 📧 Reach me at **mdsharifkhandakar009@gmail.com**  
 - 📄 View my resume [here](#)  
 - ⚡ Fun Fact: **I love both learning and teaching new technologies!**
 
 <br /><br />
-
-
 
 ---
 
@@ -53,7 +50,7 @@ I write clean, maintainable, and scalable code that follows best industry practi
 - ⚛️ Explored React.js – components, hooks, and routing.  
 - 🔐 Implemented authentication using Firebase.  
 - 🌐 Learned backend development with Node.js & Express.js.  
-- 💾 Used MongoDB for database integration in full-stack apps.  
+- 📂 Used MongoDB for database integration in full-stack apps.  
 - 🎓 Currently learning from **Tanvir Academy**, focusing on practical projects and career-ready skills.  
 - 🚀 Dedicated to becoming a professional full-stack web developer.
 
@@ -94,7 +91,7 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ---
 
-## 📫 How to Reach Me
+## 📢 How to Reach Me
 
 📧 Email: mdsharifkhandakar009@gmail.com
 
@@ -118,18 +115,16 @@ I write clean, maintainable, and scalable code that follows best industry practi
 [![Twitch](https://img.shields.io/badge/Twitch-%237159E4.svg?&style=for-the-badge&logo=twitch&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharif@gmail.com)
 
-
 ---
 
 ## ✍️ Random Dev Quote
 
 ```text
 "Learning to write programs stretches your mind, and helps you think better." – Bill Gates
+```
 
 <!-- Footer -->
 <div align="center">
-
-<!-- Animated Footer with Thank You -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
-
+  <!-- Animated Footer with Thank You -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
