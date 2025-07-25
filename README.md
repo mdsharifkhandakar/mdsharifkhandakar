@@ -125,3 +125,11 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ```text
 "Learning to write programs stretches your mind, and helps you think better." – Bill Gates
+
+<!-- Footer -->
+<div align="center">
+
+<!-- Animated Footer with Thank You -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
+
+</div>
