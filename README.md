@@ -34,12 +34,12 @@ I write clean, maintainable, and scalable code that follows best industry practi
 <img width="55%" height="400" align="right" alt="Web Dev GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - I’m currently learning **Full Stack Web Development**
-- 👨‍💻 Check out my work at [My Portfolio](#)
-- 📝 I regularly share insights on [Facebook](https://www.facebook.com/mdsharifkhandakar009)  
-- 💬 Ask me anything about **Web Development**  
-- 📧 Reach me at **mdsharifkhandakar009@gmail.com**  
-- 📄 View my resume [here](#)  
-- ⚡ Fun Fact: **I love both learning and teaching new technologies!**
+- Check out my work at [My Portfolio](#)
+- I regularly share insights on [Facebook](https://www.facebook.com/mdsharifkhandakar009)  
+- Ask me anything about **Web Development**  
+- Reach me at **mdsharifkhandakar009@gmail.com**  
+- View my resume [here](#)  
+- Fun Fact: **I love both learning and teaching new technologies!**
 
 <br /><br />
 
@@ -47,15 +47,15 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ## 🚀 My Learning Journey
 
-- 🔰 Started with HTML & CSS in early 2025 to build basic static pages.  
-- 🎨 Learned Tailwind CSS for responsive, modern UI design.  
-- ⚙️ Gained skills in JavaScript (ES6+) for interactivity and logic building.  
-- ⚛️ Explored React.js – components, hooks, and routing.  
-- 🔐 Implemented authentication using Firebase.  
-- 🌐 Learned backend development with Node.js & Express.js.  
-- 📂 Used MongoDB for database integration in full-stack apps.  
-- 🎓 Currently learning from **Tanvir Academy**, focusing on practical projects and career-ready skills.  
-- 🚀 Dedicated to becoming a professional full-stack web developer.
+- Started with HTML & CSS in early 2025 to build basic static pages.  
+- Learned Tailwind CSS for responsive, modern UI design.  
+- Gained skills in JavaScript (ES6+) for interactivity and logic building.  
+- Explored React.js – components, hooks, and routing.  
+- Implemented authentication using Firebase.  
+- Learned backend development with Node.js & Express.js.  
+- Used MongoDB for database integration in full-stack apps.  
+- Currently learning from **Tanvir Academy**, focusing on practical projects and career-ready skills.  
+- Dedicated to becoming a professional full-stack web developer.
 
 ---
 
@@ -126,15 +126,15 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ## 📢 How to Reach Me
 
-📧 Email: mdsharifkhandakar009@gmail.com
+📧Email: mdsharifkhandakar009@gmail.com
 
-🌐 Portfolio Website: **Coming Soon**
+🌐Portfolio Website: **Coming Soon**
 
-🧑‍💻 Currently Learning From: Tanvir Academy
+- Currently Learning From: Programing Hero
 
-📝 I Regularly Write In: Bangla & English
+- I Regularly Write In: Bangla & English
 
-📍 Location: Narsingdi, Bangladesh
+- Location: Narsingdi, Bangladesh
 
 🕒 Available: 10 AM – 11 PM (GMT+6)
 
