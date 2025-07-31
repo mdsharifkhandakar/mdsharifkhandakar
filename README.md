@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+Md+Sharif+Khandakar!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+Sharif+Khandakar!;Welcome+to+my+GitHub+profile!" />
 </h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
