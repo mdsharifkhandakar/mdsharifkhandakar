@@ -99,7 +99,7 @@ I write clean, maintainable, and scalable code that follows best industry practi
   <tbody>
     <tr>
       <td><strong>Multi Tools Web App</strong></td>
-      <td>Tools for image conversion, text utilities, and calculators — <b>Tech:</b> HTML, CSS, JS, Bootstrap</td>
+      <td>My Academic Coursework — <b>Tech:</b> HTML and CSS only</td>
       <td><a href="https://github.com/mdsharifkhandakar/B12A02-MD.-SHARIF-KHANDAKAR">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://mdsharifkhandakar.github.io/B12A02-MD.-SHARIF-KHANDAKAR/">Demo</a></td>
     </tr>
     <tr>
