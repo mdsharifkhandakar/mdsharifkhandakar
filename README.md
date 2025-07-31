@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+md+Sharif+Khandakar!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+Md+Sharif+Khandakar!" />
 </h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
@@ -87,11 +87,41 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ## 📁 Projects I’m Working On
 
-| Project Name          | Description                              | Tech Stack               | Links              |
-|----------------------|----------------------------------------|--------------------------|--------------------|
-| **Multi Tools Web App** | Tools for image conversion, text utilities, and calculators | HTML, CSS, JS, Bootstrap | [Code](#) • [Demo](#) |
-| **Portfolio Website** | Personal portfolio showcasing my skills and projects | HTML, JS, CSS, Figma     | [Code](#) • [Demo](#) |
-| **Data Entry Automation** | Automating Excel data entry for office work | Excel, VBA, Python       | [Code](#) • [Demo](#) |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Project Name</th>
+      <th>📝 Description</th>
+      <th>🛠️ Tech Stack</th>
+      <th>🔗 Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Multi Tools Web App</strong></td>
+      <td>Tools for image conversion, text utilities, and calculators</td>
+      <td>HTML, CSS, JS, Bootstrap</td>
+      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Portfolio Website</strong></td>
+      <td>Personal portfolio showcasing my skills and projects</td>
+      <td>HTML, JS, CSS, Figma</td>
+      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Data Entry Automation</strong></td>
+      <td>Automating Excel data entry for office work</td>
+      <td>Excel, VBA, Python</td>
+      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ---
 
