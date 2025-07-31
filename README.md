@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md Sharif Khandakar</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+md+Sharif+Khandakar!" />
+</h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
+
 
 <p align="center">
   <img 
@@ -62,22 +65,23 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 ---
 
-<h3 style="color:#FFA500;">🏆 GitHub Trophies</h3>
+<h3 style="color:#FFD700;">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdsharifkhandakar&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdsharifkhandakar&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
+
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -125,6 +129,7 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 <!-- Footer -->
 <div align="center">
-  <!-- Animated Footer with Thank You -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
+  <!-- Animated Footer with Thank You For Visiting -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,8,15&height=120&section=footer&text=Thank%20You%20For%20Visiting&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
 </div>
+
