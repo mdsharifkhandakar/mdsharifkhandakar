@@ -89,38 +89,37 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 <div align="center">
 
-<table>
+<table width="80%">
   <thead>
     <tr>
-      <th>🚀 Project Name</th>
-      <th>📝 Description</th>
-      <th>🛠️ Tech Stack</th>
+      <th>🚀 Project</th>
+      <th>Details</th>
       <th>🔗 Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Multi Tools Web App</strong></td>
-      <td>Tools for image conversion, text utilities, and calculators</td>
-      <td>HTML, CSS, JS, Bootstrap</td>
+      <td>Tools for image conversion, text utilities, and calculators — <b>Tech:</b> HTML, CSS, JS, Bootstrap</td>
       <td><a href="#">Code</a> • <a href="#">Demo</a></td>
     </tr>
     <tr>
       <td><strong>Portfolio Website</strong></td>
-      <td>Personal portfolio showcasing my skills and projects</td>
-      <td>HTML, JS, CSS, Figma</td>
+      <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS, Figma</td>
       <td><a href="#">Code</a> • <a href="#">Demo</a></td>
     </tr>
     <tr>
       <td><strong>Data Entry Automation</strong></td>
-      <td>Automating Excel data entry for office work</td>
-      <td>Excel, VBA, Python</td>
+      <td>Automating Excel data entry for office work — <b>Tech:</b> Excel, VBA, Python</td>
       <td><a href="#">Code</a> • <a href="#">Demo</a></td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
+
+
 
 
 ---
