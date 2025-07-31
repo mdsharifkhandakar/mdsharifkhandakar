@@ -88,12 +88,11 @@ I write clean, maintainable, and scalable code that follows best industry practi
 ## 📁 Projects I’m Working On
 
 <div align="center">
-
 <table width="80%">
   <thead>
     <tr>
       <th>🚀 Project</th>
-      <th>Details</th>
+      <th>📄 Details</th>
       <th>🔗 Links</th>
     </tr>
   </thead>
@@ -101,22 +100,23 @@ I write clean, maintainable, and scalable code that follows best industry practi
     <tr>
       <td><strong>Multi Tools Web App</strong></td>
       <td>Tools for image conversion, text utilities, and calculators — <b>Tech:</b> HTML, CSS, JS, Bootstrap</td>
-      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+      <td><a href="https://github.com/mdsharifkhandakar/B12A02-MD.-SHARIF-KHANDAKAR">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://mdsharifkhandakar.github.io/B12A02-MD.-SHARIF-KHANDAKAR/">Demo</a></td>
     </tr>
     <tr>
       <td><strong>Portfolio Website</strong></td>
       <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS, Figma</td>
-      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Demo</a></td>
     </tr>
     <tr>
       <td><strong>Data Entry Automation</strong></td>
       <td>Automating Excel data entry for office work — <b>Tech:</b> Excel, VBA, Python</td>
-      <td><a href="#">Code</a> • <a href="#">Demo</a></td>
+      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Demo</a></td>
     </tr>
   </tbody>
 </table>
-
 </div>
+
+
 
 
 
