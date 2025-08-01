@@ -144,9 +144,9 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsharifkhandakar009)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsharifkhandakar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdsharifkhandakar009?igsh=em9pNGVyNHpiZ29t)
 [![Twitch](https://img.shields.io/badge/Twitch-%237159E4.svg?&style=for-the-badge&logo=twitch&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharif@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mdsharifkhandakar009@gmail.com)
 
 ---
 
