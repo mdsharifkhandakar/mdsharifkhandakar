@@ -14,7 +14,6 @@ Here’s a short, icon-free version:
 
 I am a passionate MERN Stack developer skilled in TypeScript, Redux, Next.js, and Mongoose. I create sleek front-ends, secure back-ends, and scalable applications. I started in 2023 with HTML, CSS, and Bootstrap, learned JavaScript, React, Tailwind, Firebase, Node.js, MongoDB, Express, and JWT in 2025, and advanced with TypeScript, Next.js, and Redux to build production-ready apps.
 
-<br />
 
 <img width="55%" height="400" align="right" alt="Web Dev GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -28,8 +27,7 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 - Ask me anything about **Web Development**  
 - Email: **mdsharifkhandakar009@gmail.com**  
 - Resume: [View here](#)
-
-<br /><br />
+<br />
 
 ---
 
