@@ -6,44 +6,45 @@
 
 
 ---
+
+
 ## About Me<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
-👋 Hello! I'm a passionate **MERN Stack Developer** with hands-on experience in building full-stack applications using **TypeScript**, **Redux**, **Next.js**, and **Mongoose**.  
-I specialize in creating visually appealing front-ends and robust, secure back-end systems using modern technologies like **JavaScript (ES6+)** and **RESTful APIs**.  
-I write clean, maintainable, and scalable code that follows best industry practices.
-<br />
+Here’s a short, icon-free version:
 
-🌱 My journey started in **late 2021** with HTML, CSS, and Bootstrap — focusing on static web pages.  
-🚀 By **2023**, I mastered **JavaScript (ES6+)**, **React.js**, **Tailwind CSS**, and explored **Firebase Authentication**, **Node.js**, **MongoDB**, **Express**, and **JWT**.  
-💡 In **2024**, I leveled up with **TypeScript**, **Next.js**, **Redux**, and **Mongoose** — allowing me to build secure, scalable, and production-ready applications.
+I am a passionate MERN Stack developer skilled in TypeScript, Redux, Next.js, and Mongoose. I create sleek front-ends, secure back-ends, and scalable applications. I started in 2023 with HTML, CSS, and Bootstrap, learned JavaScript, React, Tailwind, Firebase, Node.js, MongoDB, Express, and JWT in 2025, and advanced with TypeScript, Next.js, and Redux to build production-ready apps.
 
 <br />
 
 <img width="55%" height="400" align="right" alt="Web Dev GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-- I’m currently learning **Full Stack Web Development**
-- Check out my work at [My Portfolio](#)
-- I regularly share insights on [Facebook](https://www.facebook.com/mdsharifkhandakar009)  
+I’m learning **Full Stack Web Development** and building production-ready MERN apps.
+
+### Work & Portfolio
+- Check out my work: [My Portfolio](#)
+- I regularly share insights on: [Linkedin](https://www.linkedin.com/in/mdsharifkhandakar)
+
+### Contact
 - Ask me anything about **Web Development**  
-- Reach me at **mdsharifkhandakar009@gmail.com**  
-- View my resume [here](#)  
-- Fun Fact: **I love both learning and teaching new technologies!**
+- Email: **mdsharifkhandakar009@gmail.com**  
+- Resume: [View here](#)
 
 <br /><br />
 
 ---
 
+
+
+
 ## 🚀 My Learning Journey
 
-- Started with HTML & CSS in early 2025 to build basic static pages.  
-- Learned Tailwind CSS for responsive, modern UI design.  
-- Gained skills in JavaScript (ES6+) for interactivity and logic building.  
-- Explored React.js – components, hooks, and routing.  
-- Implemented authentication using Firebase.  
-- Learned backend development with Node.js & Express.js.  
-- Used MongoDB for database integration in full-stack apps.  
-- Currently learning from **Tanvir Academy**, focusing on practical projects and career-ready skills.  
-- Dedicated to becoming a professional full-stack web developer.
+- Completed data analysis at **Tanvir Academy**.  
+- Currently learning web development from **Programming Hero**.  
+- Started with HTML & CSS, then Tailwind CSS for responsive design.  
+- Gained JavaScript (ES6+) skills, explored React.js (components, hooks, routing).  
+- Implemented Firebase authentication.  
+- Learned backend with Node.js & Express.js and database integration using MongoDB.  
+- Working toward becoming a professional full-stack developer.
 
 ---
 
@@ -62,6 +63,10 @@ I write clean, maintainable, and scalable code that follows best industry practi
 
 
 ---
+
+
+
+
 
 ## 📊 GitHub Stats
 
