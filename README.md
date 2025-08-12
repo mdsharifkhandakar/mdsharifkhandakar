@@ -3,18 +3,12 @@
 </h1>
 <h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
 
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-
-<p align="center">
+![Md. Sharif Khandakar LinkedIn Banner](./Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
 
 ---
 
@@ -81,6 +75,11 @@ I write clean, maintainable, and scalable code that follows best industry practi
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
 
 
 ---
