@@ -1,8 +1,3 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=0E75B6&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;I'm+Sharif+Khandakar!;Welcome+to+my+GitHub+profile!" />
-</h1>
-<h3 align="center">🚀 A Passionate Web Developer from Bangladesh</h3>
-
 ![Md. Sharif Khandakar LinkedIn Banner](./Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,7 +6,6 @@
 
 
 ---
-
 ## About Me<img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 👋 Hello! I'm a passionate **MERN Stack Developer** with hands-on experience in building full-stack applications using **TypeScript**, **Redux**, **Next.js**, and **Mongoose**.  
@@ -116,26 +110,6 @@ I write clean, maintainable, and scalable code that follows best industry practi
 </div>
 
 
-
-
-
-
-
----
-
-## 📢 How to Reach Me
-
-📧Email: mdsharifkhandakar009@gmail.com
-
-🌐Portfolio Website: **Coming Soon**
-
-- Currently Learning From: Programing Hero
-
-- I Regularly Write In: Bangla & English
-
-- Location: Narsingdi, Bangladesh
-
-🕒 Available: 10 AM – 11 PM (GMT+6)
 
 ---
 
