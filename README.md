@@ -1,9 +1,15 @@
-<h1 align="left" font-size="2px">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md. Sharif Khandakar</h1>
-![Md. Sharif Khandakar LinkedIn Banner](./Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
+<h1 align="left">
+  <font size="3">Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="30" height="30">, I'm Md. Sharif Khandakar</font>
+</h1>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/mdsharifkhandakar/mdsharifkhandakar/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
+</p>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 
 
 ---
