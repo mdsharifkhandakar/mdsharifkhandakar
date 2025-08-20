@@ -1,3 +1,4 @@
+<h1 align="left" font-size="2px">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md. Sharif Khandakar</h1>
 ![Md. Sharif Khandakar LinkedIn Banner](./Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdsharifkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -6,9 +7,6 @@
 
 
 ---
-
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Md. Sharif Khandakar</h1>
-
 ## About Me <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 I am a passionate MERN Stack developer skilled in TypeScript, Redux, Next.js, and Mongoose. I create sleek front-ends, secure back-ends, and scalable applications. I started in 2023 with HTML, CSS, and Bootstrap, learned JavaScript, React, Tailwind, Firebase, Node.js, MongoDB, Express, and JWT in 2025, and advanced with TypeScript, Next.js, and Redux to build production-ready apps.
