@@ -23,7 +23,7 @@ I am a passionate MERN Stack developer skilled in TypeScript, Redux, Next.js, an
 I’m learning **Full Stack Web Development** and building production-ready MERN apps.
 
 ### Work & Portfolio
-- Check out my work: [My Portfolio](#)
+- Check out my work: [My Portfolio](https://portfolio-md-sharif-khandakar.vercel.app/)
 - I regularly share insights on: [Linkedin](https://www.linkedin.com/in/mdsharifkhandakar)
 
 ### Contact
