@@ -82,9 +82,11 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 </p>
 
 <!-- Centered Top Languages showing all languages -->
+<!-- Top Languages card, larger image, smaller font -->
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&text_size=14" alt="Top Languages" width="50%" />
 </p>
+
 
 
 
