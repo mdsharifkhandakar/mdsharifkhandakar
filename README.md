@@ -1,6 +1,10 @@
-<h1 align="left">
-  <font size="3">Hi <img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="30" height="30">, I'm Md. Sharif Khandakar</font>
-</h1>
+<!-- Left-aligned typing animation -->
+<div style="text-align: left;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md+Sharif+Khandakar;+Welcome+to+My+Profile!" alt="Typing SVG"/>
+  </a>
+</div>
+
 
 <p align="left">
   <img src="img.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
