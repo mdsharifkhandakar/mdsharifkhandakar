@@ -71,13 +71,15 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 
 ## 📊 GitHub Stats
 
+<!-- Side-by-side stats -->
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
+<!-- Centered Top Languages showing all languages -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
