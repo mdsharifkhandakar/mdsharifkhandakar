@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  <img src="image.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
+  <img src="img.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
 </p>
 
 
