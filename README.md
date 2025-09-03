@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="img.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
+  <img src="image.png" alt="Md. Sharif Khandakar LinkedIn Banner" />
 </p>
 
 
