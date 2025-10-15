@@ -75,17 +75,33 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 
 ## 📊 GitHub Stats
 
-<!-- Side-by-side stats -->
+<!-- 📊 Side-by-side GitHub Stats -->
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=mdsharifkhandakar&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img 
+    width="45%" 
+    src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight&hide_border=false" 
+    alt="GitHub Stats"
+    style="margin-right: 10px;" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=mdsharifkhandakar&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak Stats"
+    style="margin-left: 10px;" 
+  />
 </p>
 
-<!-- Centered Top Languages showing all languages -->
-<!-- Top Languages card, larger image, smaller font -->
+<!-- 🌐 Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&text_size=14" alt="Top Languages" width="50%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="Top Languages" 
+    width="45%" 
+  />
 </p>
+
+
+
 
 
 
