@@ -73,32 +73,32 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 
 
 
-## 📊 GitHub Stats
+## 🚀 Advanced GitHub Stats
 
-<!-- 📊 Side-by-side GitHub Stats -->
-<p align="center">
-  <img 
-    width="45%" 
-    src="https://github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&theme=tokyonight&hide_border=false" 
-    alt="GitHub Stats"
-    style="margin-right: 10px;" 
-  />
-  <img 
-    width="48%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=mdsharifkhandakar&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak Stats"
-    style="margin-left: 10px;" 
-  />
-</p>
 
-<!-- 🌐 Top Languages -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-    alt="Top Languages" 
-    width="45%" 
-  />
-</p>
+<a> 
+  <a href="https://github.com/mdsharifkhandakar">
+    <img 
+      alt="Sharif's Github Stats" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
+      height="192px" 
+      width="49.5%"
+    />
+  </a>
+  <a href="https://github.com/mdsharifkhandakar">
+    <img 
+      alt="Sharif's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&langs_count=8&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
+      height="192px" 
+      width="49.5%"
+    />
+  </a>
+  <br/>
+</a>
+
+![Sharif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsharifkhandakar&custom_title=Sharif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34b3eb&line=34b3eb&point=34b3eb&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
 
 
 
