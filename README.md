@@ -82,7 +82,7 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
       alt="Sharif's Github Stats" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
       height="192px" 
-      width="50%"
+      width="49.5%"
     />
   </a>
   <a href="https://github.com/mdsharifkhandakar">
