@@ -71,30 +71,57 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 
 
 
-
-
 ## 🚀 Advanced GitHub Stats
 
-<a>
-  <a href="https://github.com/mdsharifkhandakar">
-    <img
-      alt="Sharif's Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb"
-      height="210px"
-      width="49.5%"
-    />
-  </a>
+<!-- CENTER FIRST IMAGE -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=mdsharifkhandakar&theme=react&border_color=34b3eb&background=0D1117&ring=34b3eb&fire=34b3eb&currStreakLabel=34b3eb&sideNums=34b3eb&sideLabels=34b3eb&dates=ffffff"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</p>
 
-  <a href="https://github.com/mdsharifkhandakar">
-    <img
-      alt="Sharif's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&langs_count=8&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb"
-      height="210px"
-      width="49.5%"
-    />
-  </a>
-  <br/>
-</a>
+<div align="center">
+
+  <!-- wrapper table (GitHub-safe flex alternative) -->
+  <table>
+    <tr>
+      <!-- Left image -->
+      <td>
+        <img 
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb"
+          alt="Top Languages"
+          width="450"
+          height="260"
+          style="border-radius: 10px;"
+        />
+      </td>
+      <!-- Right image -->
+      <td>
+        <img 
+          src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb"
+          alt="GitHub Stats"
+          width="450"
+          height="260"
+          style="border-radius: 10px;"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![Sharif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsharifkhandakar&custom_title=Sharif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34b3eb&line=34b3eb&point=34b3eb&area_color=FFFFFF&title_color=FFFFFF&area=true)
