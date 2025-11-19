@@ -121,19 +121,19 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
   </thead>
   <tbody>
     <tr>
-      <td><strong>Multi Tools Web App</strong></td>
-      <td>My Academic Coursework — <b>Tech:</b> HTML and CSS only</td>
-      <td><a href="https://github.com/mdsharifkhandakar/B12-A09-SkillSwap">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://skillswap-platforms-177s04.netlify.app/signin">Demo</a></td>
-    </tr>
-    <tr>
+      <tr>
       <td><strong>Portfolio Website</strong></td>
       <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS</td>
       <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://wtth-sharif-portfolio.netlify.app/">Demo</a></td>
     </tr>
-    <tr>
+      <tr>
       <td><strong>Hero Apps</strong></td>
-      <td>Hero App for quick task management — <b>Tech:</b> React, JavaScript</td>
+        <td>A simple web app for offering and trading local skills — <b>Tech:</b> React, Vite, Tailwind CSS, React Router, Recharts,React Toastify</td>
       <td><a href="https://github.com/mdsharifkhandakar/B12-A08-Hero-Apps?tab=readme-ov-file">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://sharif-hero-apps.netlify.app/">Demo</a></td>
+    </tr>
+    <td><strong>SkillSwap – A Local Skill Exchange Platform</strong></td>
+<td>A simple and interactive app for offering and trading local skills — <b>Tech:</b> React, React Router DOM, Firebase Auth, Tailwind CSS, Swiper.js, AOS, React Hot Toast</td>
+      <td><a href="https://github.com/mdsharifkhandakar/B12-A09-SkillSwap">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://skillswap-platforms-177s04.netlify.app/signin">Demo</a></td>
     </tr>
   </tbody>
 </table>
