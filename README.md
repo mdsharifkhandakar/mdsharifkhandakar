@@ -150,10 +150,14 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
   <tbody>
     <tr>
       <tr>
-      <td><strong>Portfolio Website</strong></td>
-      <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS</td>
-      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://wtth-sharif-portfolio.netlify.app/">Demo</a></td>
-    </tr>
+  <td><strong>Green Earth</strong></td>
+  <td>Tree campaign website with dynamic categories, cards, modal & cart system — <b>Tech:</b> HTML, CSS, JavaScript</td>
+  <td>
+    <a href="https://github.com/mdsharifkhandakar/B12A06-Green-Earth">Code</a>
+    &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="https://mdsharifkhandakar.github.io/B12A06-Green-Earth/">Demo</a>
+  </td>
+</tr>
       <tr>
       <td><strong>Hero Apps</strong></td>
         <td>A simple web app for offering and trading local skills — <b>Tech:</b> React, Vite, Tailwind CSS, React Router, Recharts,React Toastify</td>
