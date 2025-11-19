@@ -75,26 +75,27 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 
 ## 🚀 Advanced GitHub Stats
 
-
-<a> 
+<a>
   <a href="https://github.com/mdsharifkhandakar">
     <img
-      alt="Sharif's Github Stats" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
-      height="230px" 
+      alt="Sharif's Github Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsharifkhandakar&show_icons=true&count_private=true&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb"
+      height="210px"
       width="49.5%"
     />
   </a>
+
   <a href="https://github.com/mdsharifkhandakar">
-    <img 
-      alt="Sharif's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&langs_count=8&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
-      height="197px" 
+    <img
+      alt="Sharif's Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&langs_count=8&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb"
+      height="210px"
       width="49.5%"
     />
   </a>
   <br/>
 </a>
+
 
 ![Sharif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsharifkhandakar&custom_title=Sharif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34b3eb&line=34b3eb&point=34b3eb&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
