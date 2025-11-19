@@ -90,7 +90,7 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
       alt="Sharif's Top Languages" 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsharifkhandakar&langs_count=8&layout=compact&theme=react&border_color=34b3eb&bg_color=0D1117&title_color=34b3eb&icon_color=34b3eb" 
       height="197px" 
-      width="60%"
+      width="49.5%"
     />
   </a>
   <br/>
