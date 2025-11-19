@@ -111,7 +111,7 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
 ## 📁 Projects I’m Working On
 
 <div align="center">
-<table width="80%">
+<table width="100%">
   <thead>
     <tr>
       <th>🚀 Project</th>
@@ -131,9 +131,12 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
         <td>A simple web app for offering and trading local skills — <b>Tech:</b> React, Vite, Tailwind CSS, React Router, Recharts,React Toastify</td>
       <td><a href="https://github.com/mdsharifkhandakar/B12-A08-Hero-Apps?tab=readme-ov-file">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://sharif-hero-apps.netlify.app/">Demo</a></td>
     </tr>
-    <td><strong>SkillSwap – A Local Skill Exchange Platform</strong></td>
-<td>A simple and interactive app for offering and trading local skills — <b>Tech:</b> React, React Router DOM, Firebase Auth, Tailwind CSS, Swiper.js, AOS, React Hot Toast</td>
-      <td><a href="https://github.com/mdsharifkhandakar/B12-A09-SkillSwap">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://skillswap-platforms-177s04.netlify.app/signin">Demo</a></td>
+    <td><strong>Customer Support Zone</strong></td>
+<td>
+A responsive React app for managing customer tickets with status tracking, task workflow, and toast notifications. 
+<b>Tech:</b> React, Tailwind CSS, React Router, React-Toastify
+</td>
+      <td><a href="https://github.com/mdsharifkhandakar/B12A7-customer-support-zone">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://customer-support-zone-9dadb.netlify.app/">Demo</a></td>
     </tr>
   </tbody>
 </table>
