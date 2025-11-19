@@ -27,7 +27,7 @@ I am a passionate MERN Stack developer skilled in TypeScript, Redux, Next.js, an
 I’m learning **Full Stack Web Development** and building production-ready MERN apps.
 
 ### Work & Portfolio
-- Check out my work: [My Portfolio](https://portfolio-md-sharif-khandakar.vercel.app/)
+- Check out my work: [My Portfolio](https://wtth-sharif-portfolio.netlify.app/)
 - I regularly share insights on: [Linkedin](https://www.linkedin.com/in/mdsharifkhandakar)
 
 ### Contact
@@ -123,17 +123,17 @@ I’m learning **Full Stack Web Development** and building production-ready MERN
     <tr>
       <td><strong>Multi Tools Web App</strong></td>
       <td>My Academic Coursework — <b>Tech:</b> HTML and CSS only</td>
-      <td><a href="https://github.com/mdsharifkhandakar/B12A02-MD.-SHARIF-KHANDAKAR">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://mdsharifkhandakar.github.io/B12A02-MD.-SHARIF-KHANDAKAR/">Demo</a></td>
+      <td><a href="https://github.com/mdsharifkhandakar/B12-A09-SkillSwap">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://skillswap-platforms-177s04.netlify.app/signin">Demo</a></td>
     </tr>
     <tr>
       <td><strong>Portfolio Website</strong></td>
-      <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS, Figma</td>
-      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Demo</a></td>
+      <td>Personal portfolio showcasing my skills and projects — <b>Tech:</b> HTML, JS, CSS</td>
+      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://wtth-sharif-portfolio.netlify.app/">Demo</a></td>
     </tr>
     <tr>
-      <td><strong>Data Entry Automation</strong></td>
-      <td>Automating Excel data entry for office work — <b>Tech:</b> Excel, VBA, Python</td>
-      <td><a href="#">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#">Demo</a></td>
+      <td><strong>Hero Apps</strong></td>
+      <td>Hero App for quick task management — <b>Tech:</b> React, JavaScript</td>
+      <td><a href="https://github.com/mdsharifkhandakar/B12-A08-Hero-Apps?tab=readme-ov-file">Code</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://sharif-hero-apps.netlify.app/">Demo</a></td>
     </tr>
   </tbody>
 </table>
